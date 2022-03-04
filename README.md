@@ -2,7 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Screenshot
+
+![Screenshot](ss.png)
+
+### Links
+
+- Live Site URL: [live site URL](https://silly-lamarr-d6209e.netlify.app/)
+
+###Available Scripts
 
 In the project directory, you can run:
 
